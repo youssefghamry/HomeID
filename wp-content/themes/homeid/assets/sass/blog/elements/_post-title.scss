@@ -1,0 +1,8 @@
+.g5blog__post-title {
+  font-size: 32px;
+  font-weight: 500;
+  margin-top: 0 !important;
+  &:hover {
+    color: var(--g5-color-accent);
+  }
+}
