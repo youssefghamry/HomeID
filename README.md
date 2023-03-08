@@ -10,7 +10,7 @@
 
 
 
-- [x]Easy to Get Started
+- [x] Easy to Get Started
 - We already build 8 Pre-homepage demos are available to get you started in seconds. Build website within a seconds as easily as never before. Import whole demo content, and set up your web site to look just like any of our demo examples in One Click Install Demo Data.
 
 - [x] 1 Click Install Demo Data
